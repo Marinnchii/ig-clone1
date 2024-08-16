@@ -1,2 +1,2 @@
-# ig-clone1
+# youtube-clone1
 ig-clone1
